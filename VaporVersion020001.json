@@ -1,11 +1,10 @@
 {
   "platform":"WIN96",
-  "build": "y37edMxIlo93dExB.4wBneuUie6TrE8xS.bTo93xEw_W$",
-  "version": "2.0.3",
-  "bin": "C:/user/bin/mrx96",
-  "type": "patch",
-  "folder": "C:/user/appdata/MatrixFor96",
+  "build": "cTf57hgErBYio5pL8.2xxSzTF6bGji9O.gGy8UgI_W$",
+  "version": "2.0.4",
+  "bin": "C:/user/bin/vapor96",
+  "type": "update",
+  "folder": "C:/user/appdata/Vapor96",
   "bootscripts": [],
-  "changelog": ["Patches a known bug+Removes DebugAlerts"],
-  "about": "Important Patch for accidental code left in 2.0.3. NOT SEPERATE FROM 2.0.3!"
+  "rels": ["rel2.windows96.net", "lite2.windows96.net", "rel3.windows96.net"]
 }
