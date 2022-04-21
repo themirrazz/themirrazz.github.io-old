@@ -254,6 +254,14 @@ cursor:pointer;
     background-color: #0000bd;
     color:white;
 }
+
+.mrx96-message a {
+    color: blue;
+}
+
+.mrx96-you-contain .mrx96-message a {
+    color: #9cc2ff;
+}
 </style>
 <div style="display:flex;flex-direction:row;width:100%;overflow:hidden;" class="ui-draggable-handle">
 <button class='mrx96-cancel-nro mrx96-button' onclick="this.parentNode.parentNode.style.display='none';">Cancel</button>
@@ -504,6 +512,15 @@ color: black;
 width:60%;
 right: 5%;
 border-radius: 12px;
+}
+
+
+.mrx96-message a {
+    color: blue;
+}
+
+.mrx96-you-contain .mrx96-message a {
+    color: #9cc2ff;
 }
 
 
