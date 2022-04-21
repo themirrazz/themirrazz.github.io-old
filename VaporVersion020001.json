@@ -1,6 +1,8 @@
 {
   "platform":"WIN96",
-  "build": "9gD63bCnIo2p3k.4jEloLnB730e.pOy79Xge_W$",
-  "version": "2.0.1",
-  "bin": "C:/user/bin/mrx96"
+  "build": "dXw643mIoPg6YdEFiQqWxE.dC6nEo93gByX93.cD6gXe_W$",
+  "version": "2.0.2",
+  "bin": "C:/user/bin/mrx96",
+  "changeLogItems": ["Fixed security exploit"],
+  "about": "Important security patch, fix XSS links"
 }
