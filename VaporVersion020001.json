@@ -1,8 +1,9 @@
 {
   "platform":"WIN96",
-  "build": "dXw643mIoPg6YdEFiQqWxE.dC6nEo93gByX93.cD6gXe_W$",
-  "version": "2.0.2",
+  "build": "ByTuPP3bXtV639jOwD.cV6eWxEpO02b7.bY33m9xE_W$",
+  "version": "2.0.3",
   "bin": "C:/user/bin/mrx96",
-  "changeLogItems": ["Fixed security exploit"],
-  "about": "Important security patch, fix XSS links"
+  "changeLogItems": ["Fix leave-rejoin glitch"],
+  "about": "The 2.0.3 Beta Release. Should fix a bug to allow you to rejoin.",
+  "rels":["rel2.windows96.net", "lite.rel2.windows96.net", "rel3.windows96.net"]
 }
