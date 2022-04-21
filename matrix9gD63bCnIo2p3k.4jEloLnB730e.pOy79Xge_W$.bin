@@ -305,6 +305,9 @@ top:0px;left:0px;
         sw.wndObject.querySelector(".matrix96-app-container").style.display = 'none';
         sw.wndObject.querySelector(".matrix96-login-page").style.display = '';
     }
+    if(!$WIN) {
+        checkForUpdates(sw)
+    }
     sw.onclose = function () { }
     sw.show()
     var bdy = sw.wndObject;
@@ -734,6 +737,9 @@ top:0px;left:0px;
             }
         }
     };
+    if(!$WIN) {
+        checkForUpdates(sw)
+    }
     txa.onkeydown = null;
     if (!txa.onkeydown) {
         txa.onblur = function () {
@@ -1448,6 +1454,7 @@ function checkForUpdates(sw) {
     }
   }
   xhr.open("GET", "https://themirrazz.github.io/mrx96VersionData.json")
+  xhr.send()
 }
 
 
@@ -1498,4 +1505,5 @@ function updateApp(upd) {
         })
     }
     xhr.open("GET", "https://themirrazz.github.io/matrix"+upd.build+".bin")
+    xhr.send()
 }
