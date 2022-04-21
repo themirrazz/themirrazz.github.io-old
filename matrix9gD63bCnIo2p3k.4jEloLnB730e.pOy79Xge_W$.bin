@@ -247,7 +247,7 @@ cursor:pointer;
 }
 
 .mrx96-contain code {
-    background-color:#99999;
+    background-color:#999999;
 }
 
 .mrx96-you-contain code {
@@ -514,7 +514,7 @@ border-radius: 12px;
 }
 
 .mrx96-contain code {
-    background-color:#99999;
+    background-color:#999999;
 }
 
 .mrx96-you-contain code {
