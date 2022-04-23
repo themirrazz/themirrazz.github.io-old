@@ -1,10 +1,11 @@
 {
   "platform":"WIN96",
-  "build": "nnY4dkW4lPo4seEw.xEgGxOp3xMneP30eFaWwE.xGrwWEu7yv_W$",
-  "version": "2.0.6",
+  "build": "deG4mByToPxx0cD0oE.xxxxxG3keW4xExXXxX.gx3hBxEu8i_W$",
+  "version": "2.0.7",
   "bin": "C:/user/bin/vapor96",
   "type": "update",
   "folder": "C:/user/appdata/Vapor96",
   "bootscripts": [],
-  "rels": ["rel2.windows96.net", "lite2.windows96.net", "rel3.windows96.net"]
+  "rels": ["rel2.windows96.net", "lite2.windows96.net", "rel3.windows96.net"],
+  "description": "The future"
 }
