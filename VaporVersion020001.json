@@ -1,11 +1,13 @@
 {
   "platform":"WIN96",
-  "build": "heKekdjdeYexBExdDEe.xxxxxG3keW4xExXXxX.bruhFx3der_W$",
-  "version": "2.0.7b",
+  "build": "ehuZEfcnmdo8EmIxXXeh39jdG94kd.jjKelxodeP4eec9d0er.rKjue94rfgMg6_W$",
+  "version": "2.0.8",
   "bin": "C:/user/bin/vapor96",
   "type": "update",
-  "folder": "C:/user/appdata/Vapor96",
+  "folder": "Vapor96",
   "bootscripts": [],
   "rels": ["rel2.windows96.net", "lite2.windows96.net", "rel3.windows96.net"],
-  "description": "The futureb"
+  "description": "The future but kind of broken",
+  "isBeta": true,
+  "isBroken": 'kind-of'
 }
