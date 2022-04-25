@@ -1,7 +1,7 @@
 {
   "platform":"WIN96",
-  "build": "ehuZEfcnmdo8EmIxXXeh39jdG94kd.jjKelxodeP4eec9d0er.rKjue94rfgMg6_W$",
-  "version": "2.0.8",
+  "build": "evh8hejdjdkhd8jJggXty7jFcCeD.mPo4jKieeeeeXefLefe.DeveleXwU6666tY_W$",
+  "version": "2.0.9",
   "bin": "C:/user/bin/vapor96",
   "type": "update",
   "folder": "Vapor96",
@@ -9,5 +9,5 @@
   "rels": ["rel2.windows96.net", "lite2.windows96.net", "rel3.windows96.net"],
   "description": "The future but kind of broken",
   "isBeta": true,
-  "isBroken": "kind-of"
+  "isBroken": 'kind-of'
 }
