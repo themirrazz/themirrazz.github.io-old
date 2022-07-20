@@ -16,18 +16,7 @@
       "16x16": "$REPO_PATH$/dist/s/scratch-desktop/favicon.ico.png",
       "64x64": "$REPO_PATH$/dist/s/scratch-desktop/icon.png"
     },
-    "feature_requirements": [],
-    "mirrazz.side_notes": [
-      "Scratch GUI is (c) 2016 MIT Media Lab.",
-      "This is still in development, certain things may not work correctly (or at all)."
-    ],
-    "mirrazz.standalone_repo": "themirrazz/scratchdesktop96",
-    "mirrazz.contact_info": [
-      {
-        "packageExclusive":true,
-        "type":"ghissue",
-        "link":"ghi:themirrazz/scratchdesktop96"
-      }
-    ]
+    "readmeFile": "$REPO_PATH$/dist/s/scratch-desktop/README.html",
+    "feature_requirements": []
   }
 ]
