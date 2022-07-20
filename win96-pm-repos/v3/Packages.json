@@ -1,0 +1,33 @@
+[
+  {
+    "name": "scratch-desktop",
+    "friendlyName": "Scratch Desktop for Windows96",
+    "author": "themirrazz#9986",
+    "installedSize": 0,
+    "downloadSize": 0,
+    "packageRoot": "$REPO_PATH$/dist/s/scratch-desktop",
+    "depends": [],
+    "category": "development",
+    "version": 1.0,
+    "min_os_version": 300005,
+    "description": "Create, edit, and save Scratch projects with this offline editor!",
+    "iconFiles": {
+      "32x32": "$REPO_PATH$/dist/s/scratch-desktop/icon32x32.png",
+      "16x16": "$REPO_PATH$/dist/s/scratch-desktop/favicon.ico.png",
+      "64x64": "$REPO_PATH$/dist/s/scratch-desktop/icon.png"
+    },
+    "feature_requirements": [],
+    "mirrazz.side_notes": [
+      "Scratch GUI is (c) 2016 MIT Media Lab.",
+      "This is still in development, certain things may not work correctly (or at all)."
+    ],
+    "mirrazz.standalone_repo": "themirrazz/scratchdesktop96",
+    "mirrazz.contact_info": [
+      {
+        "packageExclusive":true,
+        "type":"ghissue",
+        "link":"ghi:themirrazz/scratchdesktop96"
+      }
+    ]
+  }
+]
