@@ -3,8 +3,8 @@
     "name": "scratch-desktop",
     "friendlyName": "Scratch Desktop for Windows96",
     "author": "themirrazz#9986",
-    "installedSize": 0,
-    "downloadSize": 0,
+    "installedSize": 17276094,
+    "downloadSize": 17276094,
     "packageRoot": "$REPO_PATH$/dist/s/scratch-desktop",
     "depends": [],
     "category": "development",
@@ -13,10 +13,9 @@
     "description": "Create, edit, and save Scratch projects with this offline editor!",
     "iconFiles": {
       "32x32": "$REPO_PATH$/dist/s/scratch-desktop/icon32.png",
-      "16x16": "$REPO_PATH$/dist/s/scratch-desktop/icon16.png",
-      "64x64": "$REPO_PATH$/dist/s/scratch-desktop/icon.png"
+      "16x16": "$REPO_PATH$/dist/s/scratch-desktop/icon16.png"
     },
-    "readmeFile": "$REPO_PATH$/dist/s/scratch-desktop/README.html",
+    "readmeFile": "$REPO_PATH$/dist/s/scratch-desktop/",
     "feature_requirements": []
   }
 ]
