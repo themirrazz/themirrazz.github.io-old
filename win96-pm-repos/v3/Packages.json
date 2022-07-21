@@ -12,8 +12,8 @@
     "min_os_version": 300005,
     "description": "Create, edit, and save Scratch projects with this offline editor!",
     "iconFiles": {
-      "32x32": "$REPO_PATH$/dist/s/scratch-desktop/icon32x32.png",
-      "16x16": "$REPO_PATH$/dist/s/scratch-desktop/favicon.ico.png",
+      "32x32": "$REPO_PATH$/dist/s/scratch-desktop/icon32.png",
+      "16x16": "$REPO_PATH$/dist/s/scratch-desktop/icon16.png",
       "64x64": "$REPO_PATH$/dist/s/scratch-desktop/icon.png"
     },
     "readmeFile": "$REPO_PATH$/dist/s/scratch-desktop/README.html",
