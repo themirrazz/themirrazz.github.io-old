@@ -9,7 +9,7 @@
     "depends": [],
     "category": "development",
     "version": 1.0,
-    "min_os_version": 300005,
+    "min_os_version": 300000,
     "description": "Create, edit, and save Scratch projects with this offline editor!",
     "iconFiles": {
       "32x32": "$REPO_PATH$/dist/s/scratch-desktop/icon32.png",
@@ -28,7 +28,7 @@
     "depends": [],
     "category": "development",
     "version": 1.0,
-    "min_os_version": 300005,
+    "min_os_version": 300000,
     "description": "Corrupted versions of games!",
     "iconFiles": {
       "32x32": "$REPO_PATH$/dist/b/bootleg-games/nes.png",
