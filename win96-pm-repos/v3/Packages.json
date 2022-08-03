@@ -17,5 +17,24 @@
     },
     "readmeFile": "$REPO_PATH$/dist/s/scratch-desktop/",
     "feature_requirements": []
+  },
+  {
+    "name": "bootleg-games",
+    "friendlyName": "Bootleg Games Collection",
+    "author": "themirrazz#9986",
+    "installedSize": 17276094,
+    "downloadSize": 17276094,
+    "packageRoot": "$REPO_PATH$/dist/b/bootleg-games",
+    "depends": [],
+    "category": "development",
+    "version": 1.0,
+    "min_os_version": 300005,
+    "description": "Corrupted versions of games!",
+    "iconFiles": {
+      "32x32": "$REPO_PATH$/dist/b/bootleg-games/nes.png",
+      "16x16": "$REPO_PATH$/dist/b/bootleg-games/nes.png"
+    },
+    "readmeFile": "$REPO_PATH$/dist/b/bootleg-games/",
+    "feature_requirements": []
   }
 ]
