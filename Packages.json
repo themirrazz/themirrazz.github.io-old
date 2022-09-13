@@ -1,0 +1,36 @@
+[
+    {
+        "name": "synergy-studentvue",
+        "friendlyName": "StudentVUE",
+        "description": "A fully-fledged StudentVUE client for Windows 96!",
+        "author": "themirrazz",
+        "category": "productivity",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/s/synergy-studentvue/icon32.png",
+            "16x16": "$REPO_PATH$/dist/s/synergy-studentvue/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/s/synergy-studentvue"
+    },
+    {
+        "name": "synergy-parentvue",
+        "friendlyName": "ParentVUE",
+        "description": "A fully-fledged ParentVUE client for Windows 96!",
+        "author": "themirrazz",
+        "category": "productivity",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/s/synergy-parentvue/icon32.png",
+            "16x16": "$REPO_PATH$/dist/s/synergy-parentvue/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/s/synergy-parentvue"
+    }
+]
